@@ -4,6 +4,8 @@
 
 3-DOF Velocity Prediction Program base on the [ORC](https://www.orc.org/index.asp?id=21) aero and hydro dynamic models. The code make use of Object-oriented-Programming to be as general as possible.
 
+I created this to include details for a hanse 301 wing keel yacht.
+
 
 ## Getting Started
 ### To Do List (prioritized)
